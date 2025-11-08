@@ -35,7 +35,7 @@ If you use this dataset in your research or projects, please acknowledge our wor
 **Collaborating Institutions:**
 
 - 🏫**Fudan University**
-- 🏥 **Changzhou Anxin Yihe and Rehabilitation Hospital**
+- 🏥**Changzhou Anxin Yihe and Rehabilitation Hospital**
 
 **Recommended Acknowledgement Formats:**
 
@@ -47,14 +47,6 @@ If you use this dataset in your research or projects, please acknowledge our wor
 
 > ¹ Dataset provided by Fudan University in collaboration with Changzhou Anxin Yihe and Rehabilitation Hospital.
 
-### ⭐ GitHub Support
-
-Our dataset and related code are hosted on GitHub:
-
-```
-https://github.com/FDU-Bio-Monitoring/CRHE-Long-Term-PPG-BP-Dataset
-```
-
 If you find this dataset helpful for your research, please consider:
 
 - 🔭 **Watching** the repository for updates
@@ -64,5 +56,6 @@ If you find this dataset helpful for your research, please consider:
 Every ⭐ star is greatly appreciated and encourages our ongoing work!
 
 ------
+
 
 
